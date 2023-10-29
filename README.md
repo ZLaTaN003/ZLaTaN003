@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adithyakrishna
-- 👀 I’m interested in Web Development with python
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me adithyakrishnanszz@gmail.com
